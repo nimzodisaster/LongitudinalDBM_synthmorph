@@ -1,4 +1,4 @@
-# LongitudinalDBM_synthmorph
+# Longitudinal DBM Pipeline Relying on Synthmorph Registration
 Longitudinal DBM pipeline implementation using FreeSurfer's Synthmorph
 
 This is an implementation of the pipeline described in Germann et al., 2024 (https://www.biorxiv.org/content/10.1101/2024.08.12.607581v1.full.pdf)
